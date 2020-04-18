@@ -1,9 +1,6 @@
 /*
 
 NAME   : NAVNEET KUMAR SAHAY
-ROLL   : 1705330
-BATCH  : CS-5
-BRANCH : CSE
 
 */
 
